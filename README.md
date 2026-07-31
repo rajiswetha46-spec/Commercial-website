@@ -36,3 +36,5 @@ Electronic-Store/
     ├── user2.jpg
     └── user3.jpg
 ```
+## Result
+The program for creating commercial website using CSS Flexbox is executed successfully.
